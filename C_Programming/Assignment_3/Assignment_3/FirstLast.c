@@ -14,4 +14,7 @@ while (temp >= 10)
 }
 first = temp;
 
+
+printf("First num is %d\n", first);
+printf("Last number is %d\n",last);
 }
